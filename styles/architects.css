@@ -226,4 +226,9 @@ gap: 50px;
     margin-top: 20PX;
     margin-left: 20PX;
    }
+   .footer {
+    padding: 20px;
+    margin: 20px;
+    font-size: 14px;
+  }
 }
